@@ -52,9 +52,10 @@ node index.js --code (jika ingin menggunakan otp)
 `./config.json`
 ```ts
 {
-  "ownerNumber": "0@s.whatsapp.net",
-  "ownerName": "rc",
-  "botName": "Yoshino Bot",
+  "ownerNumber":6281528428973
+"0@s.whatsapp.net",
+  "ownerName": "vinn",
+  "botName": "shintabotz",
   "packname": "follow",
   "author": "@riycoders",
   "pathimg": "./media/yoshino.jpg",
